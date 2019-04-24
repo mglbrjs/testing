@@ -9,6 +9,7 @@
 
 # Load it in
 data(trees)
+x<-trees
 
 # Preliminary inspection: format, structure, dimensions
 head(trees)
